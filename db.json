@@ -1,0 +1,22 @@
+{
+  "ufalert": [
+    {
+      "id": 1,
+      "name": "Florida Museum",
+      "latitude": "29.636214726402386",
+      "longitude": "-82.36970597209076"
+    },
+    {
+      "id": 2,
+      "name": "Shands Hospital",
+      "latitude": "29.640305328266063",
+      "longitude": "-82.3427602638026"
+    },
+    {
+      "id": 3,
+      "name": "South West Recreational Center",
+      "latitude": "29.638853572697375",
+      "longitude": "-82.36844591660673"
+    }
+  ]
+}
